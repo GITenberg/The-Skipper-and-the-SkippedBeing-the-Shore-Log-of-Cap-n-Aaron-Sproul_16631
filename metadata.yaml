@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1556
     wikipedia: http://en.wikipedia.org/wiki/Holman_Day
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16631#The-Skipper-and-the-SkippedBeing-the-Shore-Log-of-Cap-n-Aaron-Sproul
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
